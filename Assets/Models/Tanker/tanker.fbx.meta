@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: a35b0b3ab8aab01449c41a64826e290c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: d02
+    100002: d02_2
+    100004: d05
+    100006: d05_2
+    100008: node_id10
+    100010: node_id12
+    100012: node_id14
+    100014: node_id16
+    100016: node_id17
+    100018: node_id19
+    100020: node_id21
+    100022: node_id23
+    100024: node_id24
+    100026: node_id26
+    100028: node_id28
+    100030: node_id30
+    100032: node_id32
+    100034: node_id4
+    100036: node_id4_1
+    100038: node_id6
+    100040: node_id8
+    100042: Tanker
+    100044: //RootNode
+    100046: Tyres
+    100048: tyres04
+    100050: tyres04_2
+    100052: tyres05
+    100054: tyres05_2
+    100056: Tyres_1
+    400000: d02
+    400002: d02_2
+    400004: d05
+    400006: d05_2
+    400008: node_id10
+    400010: node_id12
+    400012: node_id14
+    400014: node_id16
+    400016: node_id17
+    400018: node_id19
+    400020: node_id21
+    400022: node_id23
+    400024: node_id24
+    400026: node_id26
+    400028: node_id28
+    400030: node_id30
+    400032: node_id32
+    400034: node_id4
+    400036: node_id4_1
+    400038: node_id6
+    400040: node_id8
+    400042: Tanker
+    400044: //RootNode
+    400046: Tyres
+    400048: tyres04
+    400050: tyres04_2
+    400052: tyres05
+    400054: tyres05_2
+    400056: Tyres_1
+    2100000: Body
+    2100002: Tyres
+    2100004: TyreBearing
+    2100006: Frame
+    2100008: FrameBolt
+    2100010: Lights
+    2300000: d02
+    2300002: d02_2
+    2300004: d05
+    2300006: d05_2
+    2300008: node_id10
+    2300010: node_id12
+    2300012: node_id14
+    2300014: node_id17
+    2300016: node_id19
+    2300018: node_id21
+    2300020: node_id24
+    2300022: node_id26
+    2300024: node_id28
+    2300026: node_id30
+    2300028: node_id32
+    2300030: node_id4
+    2300032: node_id4_1
+    2300034: node_id6
+    2300036: node_id8
+    2300038: tyres04
+    2300040: tyres04_2
+    2300042: tyres05
+    2300044: tyres05_2
+    3300000: d02
+    3300002: d02_2
+    3300004: d05
+    3300006: d05_2
+    3300008: node_id10
+    3300010: node_id12
+    3300012: node_id14
+    3300014: node_id17
+    3300016: node_id19
+    3300018: node_id21
+    3300020: node_id24
+    3300022: node_id26
+    3300024: node_id28
+    3300026: node_id30
+    3300028: node_id32
+    3300030: node_id4
+    3300032: node_id4_1
+    3300034: node_id6
+    3300036: node_id8
+    3300038: tyres04
+    3300040: tyres04_2
+    3300042: tyres05
+    3300044: tyres05_2
+    4300000: node_id4_1
+    4300002: tyres05
+    4300004: tyres04
+    4300006: d02
+    4300008: d05
+    4300010: tyres05_2
+    4300012: tyres04_2
+    4300014: d02_2
+    4300016: d05_2
+    4300018: node_id4
+    4300020: node_id6
+    4300022: node_id8
+    4300024: node_id10
+    4300026: node_id12
+    4300028: node_id14
+    4300030: node_id17
+    4300032: node_id19
+    4300034: node_id21
+    4300036: node_id24
+    4300038: node_id26
+    4300040: node_id28
+    4300042: node_id30
+    4300044: node_id32
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: fb7259e42a660054b951ba6e74be78af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frame
+    second: {fileID: 2100000, guid: 66e8034a72501e74aa859cdf0aae9af8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrameBolt
+    second: {fileID: 2100000, guid: 71306d831b46b2c459ccb5c7d9f25fa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lights
+    second: {fileID: 2100000, guid: 90d0c6f949817a64c97011dc20f59e67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TyreBearing
+    second: {fileID: 2100000, guid: b00d10a47d640594c8d6b7d5e862cf5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tyres
+    second: {fileID: 2100000, guid: b22ce4ba8f52c7546982af526edc8905, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

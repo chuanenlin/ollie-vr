@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 4254bbd4d55346d4895b2eb2903f7a74
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: d02
+    100002: d02_2
+    100004: d05
+    100006: d05_2
+    100008: node_id10
+    100010: node_id4
+    100012: node_id8
+    100014: //RootNode
+    100016: Tyres
+    100018: tyres04
+    100020: tyres04_2
+    100022: tyres05
+    100024: tyres05_2
+    100026: Tyres_1
+    400000: d02
+    400002: d02_2
+    400004: d05
+    400006: d05_2
+    400008: node_id10
+    400010: node_id4
+    400012: node_id8
+    400014: //RootNode
+    400016: Tyres
+    400018: tyres04
+    400020: tyres04_2
+    400022: tyres05
+    400024: tyres05_2
+    400026: Tyres_1
+    2100000: Tyres
+    2100002: TyreBearing
+    2100004: Body
+    2100006: Lights
+    2100008: Glass
+    2300000: d02
+    2300002: d02_2
+    2300004: d05
+    2300006: d05_2
+    2300008: node_id10
+    2300010: node_id4
+    2300012: node_id8
+    2300014: tyres04
+    2300016: tyres04_2
+    2300018: tyres05
+    2300020: tyres05_2
+    3300000: d02
+    3300002: d02_2
+    3300004: d05
+    3300006: d05_2
+    3300008: node_id10
+    3300010: node_id4
+    3300012: node_id8
+    3300014: tyres04
+    3300016: tyres04_2
+    3300018: tyres05
+    3300020: tyres05_2
+    4300000: tyres05
+    4300002: tyres04
+    4300004: d02
+    4300006: d05
+    4300008: tyres05_2
+    4300010: tyres04_2
+    4300012: d02_2
+    4300014: d05_2
+    4300016: node_id4
+    4300018: node_id8
+    4300020: node_id10
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: fb7259e42a660054b951ba6e74be78af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: e33f32915ccb92443a5ff3f140b2927a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lights
+    second: {fileID: 2100000, guid: 90d0c6f949817a64c97011dc20f59e67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TyreBearing
+    second: {fileID: 2100000, guid: b00d10a47d640594c8d6b7d5e862cf5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tyres
+    second: {fileID: 2100000, guid: b22ce4ba8f52c7546982af526edc8905, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
